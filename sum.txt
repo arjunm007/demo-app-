@@ -1,4 +1,4 @@
 a=16
 v=2
-c=a_l
+c=a+b
 print()
